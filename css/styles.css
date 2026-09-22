@@ -370,7 +370,7 @@ create_new_acnt:hover {
     height: 100vh;
   }
   .left_hero {
-    height: 20vh;
+    height: 10%;
     background-color: #1c2a33;
     border: none;
     outline: none;
@@ -385,15 +385,16 @@ create_new_acnt:hover {
     padding-top: 100px;
   }
   .right_hero {
-    height: 100vh;
+    height: 90%;
   }
   .right_hero form {
     background-color: #1c2a33;
-    padding: 50px 40px;
+    padding: 20px 10px;
     border: none;
     outline: none;
     margin-top: 0;
     box-shadow: none;
+    font-size: 14px;
   }
   .login_input {
     background-color: #1b2830;
@@ -415,7 +416,7 @@ create_new_acnt:hover {
   }
 
   .create_new_acnt {
-    margin-top: 20px;
+    margin-top: 80px;
   }
 
   .footer {
