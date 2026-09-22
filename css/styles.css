@@ -366,6 +366,9 @@ create_new_acnt:hover {
 }
 
 @media (max-width: 800px) {
+  .main {
+    height: 100vh;
+  }
   .left_hero {
     height: 20vh;
     background-color: #1c2a33;
